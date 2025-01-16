@@ -9,7 +9,7 @@ sections:
       culture drivers on college campus. For brands looking to make an impact
       with Gen Z, they're the key you're looking for.
     actions:
-      - label: Get started
+      - label: BRANDS
         altText: ''
         url: /
         showIcon: false
