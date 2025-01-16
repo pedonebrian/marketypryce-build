@@ -22,7 +22,7 @@ sections:
         label: ATHLETES
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
