@@ -7,6 +7,9 @@ sections:
       text: 'YOUR WORTH,WORTH MORE.'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: >
       With 12x the engagement of traditional influencers, student-athletes are
