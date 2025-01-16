@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 700
     subtitle: ''
     text: >
       With 12x the engagement of traditional influencers, student-athletes are
