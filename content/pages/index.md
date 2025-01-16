@@ -77,10 +77,8 @@ sections:
       - type: FeaturedItem
         title: '8,000'
         subtitle: Partnerships
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Partnerships with college athletes started through MarketPryce
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
