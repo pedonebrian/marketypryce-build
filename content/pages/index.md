@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: Heling Athletes and Brands of All Sizes Grow.
+    subtitle: Helping Athletes and Brands of All Sizes Grow.
     text: >
       With 12x the engagement of traditional influencers, student-athletes are
       culture drivers on college campus. For brands looking to make an impact
