@@ -66,7 +66,7 @@ sections:
         fontWeight: 700
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Highlights
       color: text-dark
       styles:
         self:
