@@ -246,7 +246,7 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Title of the video
+      title: Shape Culture
       url: /images/shape-culture.mp4
       controls: false
       aspectRatio: '16:9'
