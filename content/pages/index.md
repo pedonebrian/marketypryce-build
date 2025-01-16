@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      With 12x the engagement of traditional influencers, student-athletes are
+      culture drivers on college campus. For brands looking to make an impact
+      with Gen Z, they're the key you're looking for.
     actions:
       - label: Get started
         altText: ''
