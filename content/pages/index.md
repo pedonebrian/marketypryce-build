@@ -18,15 +18,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - type: Button
         label: Get started
         altText: ''
@@ -36,6 +27,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
