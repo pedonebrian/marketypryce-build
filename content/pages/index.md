@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Effortless product seeeding to gen z student-athletes
+      text: 'YOUR WORTH,WORTH MORE.'
       color: text-dark
       type: TitleBlock
     subtitle: ''
