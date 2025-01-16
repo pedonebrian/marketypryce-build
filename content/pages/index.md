@@ -29,7 +29,7 @@ sections:
         elementId: ''
     media:
       url: /images/marketpryce-highlight.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Our Happy Athletes
       elementId: ''
       type: ImageBlock
     badge:
