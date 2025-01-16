@@ -19,7 +19,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: ATHLETES
         altText: ''
         url: /
         showIcon: false
