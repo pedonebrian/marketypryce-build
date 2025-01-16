@@ -29,7 +29,7 @@ sections:
         elementId: ''
     media:
       type: VideoBlock
-      title: Title of the video
+      title: MarketPryce
       url: /images/marketpryce-video.mp4
       autoplay: true
       loop: true
