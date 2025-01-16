@@ -72,7 +72,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Feature some MarketPryce Stats
     items:
       - type: FeaturedItem
         title: '8,000'
