@@ -30,7 +30,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/marketpryce-
+      url: /images/marketpryce-video.mp4
       autoplay: true
       loop: true
       muted: true
