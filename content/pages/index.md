@@ -40,7 +40,7 @@ sections:
       label: ''
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: homepage-title
     colors: bg-light-fg-dark
     styles:
       self:
