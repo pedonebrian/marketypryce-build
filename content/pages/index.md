@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: YOUR WORTHWORTH MORE.
+      text: YOUR WORTH<br/>WORTH MORE.
       color: text-dark
       type: TitleBlock
       styles:
