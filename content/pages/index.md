@@ -3,13 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: YOUR WORTH WORTH MORE.
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          fontWeight: 400
     subtitle: Help Athletes and Brands of All Sizes Grow.
     text: >
       With 12x the engagement of traditional influencers, student-athletes are
