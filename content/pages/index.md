@@ -126,10 +126,8 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Response time using this method.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
