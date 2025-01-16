@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: effortless product seeeding to gen z student-athletes
+      text: Effortless product seeeding to gen z student-athletes
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
