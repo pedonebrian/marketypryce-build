@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-    subtitle: ''
+    subtitle: Help Athletes and Brands
     text: >
       With 12x the engagement of traditional influencers, student-athletes are
       culture drivers on college campus. For brands looking to make an impact
